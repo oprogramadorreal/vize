@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="resources">
+        <file>icons/16/eye.png</file>
+        <file>icons/16/plus.png</file>
+        <file>icons/16/open.png</file>
+        <file>icons/16/save_as.png</file>
+        <file>icons/16/light.png</file>
+        <file>icons/16/transform.png</file>
+		<file>shaders/mpr_ray_casting.fs</file>
+		<file>shaders/mpr_ray_casting.vs</file>
+		<file>shaders/colored_vertex.fs</file>
+		<file>shaders/colored_vertex.vs</file>
+        <file>splash.png</file>
+        <file>vize.ico</file>
+    </qresource>
+</RCC>

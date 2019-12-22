@@ -1,0 +1,4 @@
+add_subdirectory(hello_world)
+add_subdirectory(trackball_camera)
+add_subdirectory(fps_camera)
+add_subdirectory(text_renderer)

@@ -1,0 +1,6 @@
+macro(ADD_GLFW 3rdPartyDir)
+	option(GLFW_BUILD_DOCS OFF)
+	option(GLFW_BUILD_EXAMPLES OFF)
+	option(GLFW_BUILD_TESTS OFF)
+	add_subdirectory(${3rdPartyDir}/glfw 3rd-party/glfw)
+endmacro()
